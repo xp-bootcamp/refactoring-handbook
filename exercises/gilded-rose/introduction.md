@@ -1,8 +1,7 @@
 # Gilded Rose 案例介绍 
 
 ## 业务背景
-
-"镶金玫瑰"！这是一家魔兽世界里的小商店。出售的商品也都是高质量的。但不妙的是，随着商品逐渐接近保质期，它们的质量也不断下滑。我们用一个IT系统来更新库存信息。
+“镶金玫瑰”！这是一家魔兽世界里的小商店。出售的商品也都是高质量的。但不妙的是，随着商品逐渐接近保质期，它们的质量也不断下滑。现邀请你开发一个IT系统，从而能够在每过去一天后，对商店中商品的信息做出对应的更新。
 
 首先，简单介绍一下我们的系统：
 
@@ -28,7 +27,7 @@
 
 ## 代码库
 
-[Gilded Rose](https://github.com/xp-bootcamp/refactoring-gilded-rose)
+[Gilded Rose](https://github.com/xpbootcamp/refactoring-gilded-rose)
 
 
 ```sh
