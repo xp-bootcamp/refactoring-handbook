@@ -1,34 +1,5 @@
 ## Iteration 1：移动核心逻辑
 
-### 简单清理
-
-items属性私有化
-
-```java
-// From
-class GildedRose {
-    Item[] items;
-}
-
-// To
-class GildedRose {
-    private Item[] items;
-}
-
-```
-
-清楚IDE提示
-
-```java
-// From
-items[i].quality = items[i].quality - items[i].quality;
-
-// To
-items[i].quality = 0
-```
-
-
-
 ### 抽取变量
 
 ```java

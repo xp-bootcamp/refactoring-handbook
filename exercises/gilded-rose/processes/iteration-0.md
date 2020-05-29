@@ -20,3 +20,20 @@ class GildedRoseTest {
     ......
 }
 ```
+
+### 简单清理
+
+items属性私有化
+
+```java
+// From
+class GildedRose {
+    Item[] items;
+}
+
+// To
+class GildedRose {
+    private Item[] items;
+}
+
+```
