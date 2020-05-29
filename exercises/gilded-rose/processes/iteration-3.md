@@ -1,5 +1,16 @@
-## Iteration 3：优化条件表达式
+## Iteration 3：分解更新步骤
 
-- 分成三个阶段
-- revert if condition statement
-- simplify if contitioan statement
+### 分成三个阶段
+
+```java
+void update() {
+  updateQuality();
+
+  updateSellIn();
+
+  if (isExpired()) {
+    updateQualityAfterExpired();
+  }
+}
+```
+

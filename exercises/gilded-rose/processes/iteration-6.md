@@ -1,4 +1,2 @@
-## Iteration 6： 封装AgedBrie逻辑
+## Iteration 6： 抽取Backstage和Sulfuras
 
-- 移动
-- 下沉方法

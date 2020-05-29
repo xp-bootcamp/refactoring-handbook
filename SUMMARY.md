@@ -51,6 +51,7 @@
             * [Iteration 9：抽象化Item基类](exercises/gilded-rose/processes/iteration-9.md)
             * [Iteration 10：清理四种Items](exercises/gilded-rose/processes/iteration-10.md)
             * [Iteration 11：归类Package](exercises/gilded-rose/processes/iteration-11.md)
+        * [重构总结](exercises/gilded-rose/summary.md)
     * [网球游戏1](exercises/tennis-game-1/README.md)
         * [案例介绍](exercises/tennis-game-1/introduction.md)
         * [重构过程](exercises/tennis-game-1/processes/README.md)

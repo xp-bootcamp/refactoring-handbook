@@ -1,5 +1,5 @@
-## Iteration 9： 抽象Item基类
+## Iteration 9： 优化GildedRose
 
-- 将Item基类设置为抽象类
-- 三种特殊子类商品名字自封装
-- 更新构造方法，更改测试
+- Item[]  --> List<Item>
+- Remove loops
+- Move items classes to package
